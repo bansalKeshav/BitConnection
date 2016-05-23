@@ -1,0 +1,94 @@
+.bg
+{
+background:#CCC;
+background-size:cover;
+background-position:center;
+background-repeat:y-repeat;
+}
+
+.check img
+{
+	position:absolute;
+	border:thick hidden;
+	border-radius:20px;
+	height:70%;
+	width:170px;
+	padding:0px;
+	top: 46px;
+	left: 1px;
+
+}
+.pics img
+{
+    height: 386px;
+	//width:100%;
+	//height:100%;
+	width: 751px;
+ }
+/*************************************************** Our Products **********************************************************/
+
+ #prod
+{
+	position :absolute;
+	width:787px;
+	height :705px;
+	display:block;
+	border:thick hidden #900;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	background:url(bgnew.jpg);
+	overflow:scroll;
+	background-size:cover;
+	background-position:center;
+	-webkit-box-shadow:rgba(-110,-110,-110,0.7) 6px 6px 8px, rgba(-110,-110,-110,0.7) -6px 6px 8px;
+	left: 517px;
+	top: 398px;
+	overflow:auto;
+}
+#desc img
+{
+	position: absolute;
+	width:806px;
+	height:161px;
+	display: block;
+	left: 508px;
+	top: 254px;
+	
+}
+
+#show img
+{
+	position: absolute;
+	width:371px;
+	height:65px;
+	display: block;
+	left: 14px;
+	top: 495px;
+ 
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: inline;
+	
+    margin: 5px;
+    border: 1px solid #ffffff;
+	  cursor:pointer;
+
+}
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+  cursor:pointer;
+}
