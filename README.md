@@ -58,7 +58,7 @@ Bootstrap's documentation, included in this repo in the root directory, is built
 
 ### Running documentation locally
 
-1.Download the project and ping me for database at [keshav bansal]( mailto:bansalkeshav0301@gmail.com )i will provide it and then run it on your localserver
+1.Download the project and ping me for database at [keshav bansal]( mailto:bansalkeshav0301@gmail.com ) . I will provide it and then run it on your localserver
 
 
 ### Documentation for previous releases
